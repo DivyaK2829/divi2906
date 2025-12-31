@@ -6,6 +6,8 @@ public class Sample {
 		System.out.println(a);
 		String s="Divya";
 		System.out.println(s);
+		String s2="Vijayaragavan";
+		System.out.println(s2);
 	}
 
 }
