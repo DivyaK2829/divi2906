@@ -6,6 +6,10 @@ public class Sample {
 		System.out.println(a);
 		String s="Divya";
 		System.out.println(s);
+		int b=2608;
+		System.out.println(b);
+		String s1="Drithi";
+		System.out.println(s1);
 	}
 
 }
